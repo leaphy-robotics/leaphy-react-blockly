@@ -2,7 +2,7 @@
 
 import React from "react";
 import ReactDOM from "react-dom";
-import Blockly from "blockly";
+import Blockly from "leaphy-blockly";
 
 import { BlocklyWorkspace } from "./index";
 import ConfigFiles from "./initContent/content";

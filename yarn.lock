@@ -1620,12 +1620,6 @@ binary-extensions@^1.0.0:
   resolved "https://registry.yarnpkg.com/binary-extensions/-/binary-extensions-1.13.1.tgz#598afe54755b2868a5330d2aff9d4ebb53209b65"
   integrity sha512-Un7MIEDdUC5gNpcGDV97op1Ywk748MpHcFTHoYs6qnj1Z3j7I53VG3nwZhKzoBZmbdRNnb6WRdFlwl7tSDuZGw==
 
-"blockly@github:leaphy-robotics/leaphy-blockly#146983f2c0226e4287750e3ac59960a0eac3e9a3":
-  version "5.20210325.1"
-  resolved "https://codeload.github.com/leaphy-robotics/leaphy-blockly/tar.gz/146983f2c0226e4287750e3ac59960a0eac3e9a3"
-  dependencies:
-    jsdom "15.2.1"
-
 bluebird@^3.5.5:
   version "3.7.2"
   resolved "https://registry.yarnpkg.com/bluebird/-/bluebird-3.7.2.tgz#9f229c15be272454ffa973ace0dbee79a1b0c36f"
@@ -4076,6 +4070,13 @@ lcid@^2.0.0:
   integrity sha512-avPEb8P8EGnwXKClwsNUgryVjllcRqtMYa49NTsbQagYuT1DcXnl1915oxWjoyGrXR6zH/Y0Zc96xWsPcoDKeA==
   dependencies:
     invert-kv "^2.0.0"
+
+leaphy-blockly@^0.0.1:
+  version "0.0.1"
+  resolved "https://registry.yarnpkg.com/leaphy-blockly/-/leaphy-blockly-0.0.1.tgz#51b414014dd164241144c4647cf612c5cf41945f"
+  integrity sha512-WsKyS5SeZZbZzHqfd5LmrKaKvffBB7avo+3VwEFEMyU8ISbM+dVxjgX7cBj0lxaMlfH5Y6HLZkbO/tXYyAsNqw==
+  dependencies:
+    jsdom "15.2.1"
 
 leven@^3.1.0:
   version "3.1.0"

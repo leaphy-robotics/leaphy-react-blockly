@@ -1,5 +1,5 @@
 import React from "react";
-import Blockly from "blockly";
+import Blockly from "leaphy-blockly";
 
 import debounce from "./debounce";
 

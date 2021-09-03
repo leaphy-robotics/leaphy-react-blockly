@@ -4071,10 +4071,10 @@ lcid@^2.0.0:
   dependencies:
     invert-kv "^2.0.0"
 
-leaphy-blockly@^0.0.1:
-  version "0.0.1"
-  resolved "https://registry.yarnpkg.com/leaphy-blockly/-/leaphy-blockly-0.0.1.tgz#51b414014dd164241144c4647cf612c5cf41945f"
-  integrity sha512-WsKyS5SeZZbZzHqfd5LmrKaKvffBB7avo+3VwEFEMyU8ISbM+dVxjgX7cBj0lxaMlfH5Y6HLZkbO/tXYyAsNqw==
+leaphy-blockly@^0.0.17:
+  version "0.0.17"
+  resolved "https://registry.yarnpkg.com/leaphy-blockly/-/leaphy-blockly-0.0.17.tgz#7b2d890be2152843e508360e7539d071831e48c0"
+  integrity sha512-Ny9yrBfhIFmcb3sUvvLEDa8rEb5L2kW42Uu9UOW0QUsoTZjRix1MUyO8Z4j/VWeeoVAqrGoSuGSgQWRPKXfX8w==
   dependencies:
     jsdom "15.2.1"
 

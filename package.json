@@ -1,6 +1,6 @@
 {
   "name": "leaphy-react-blockly",
-  "version": "0.0.8",
+  "version": "0.0.9",
   "description": "A React wrapper for the Blockly visual programming editor",
   "main": "dist/index.js",
   "scripts": {
@@ -18,7 +18,7 @@
   "author": "Nat Budin <natbudin@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "leaphy-blockly": "^0.0.20",
+    "leaphy-blockly": "^0.0.22",
     "prop-types": "^15.7.2"
   },
   "peerDependencies": {
